@@ -14,6 +14,8 @@ Web
 apt-get install python-dev autoconf g++ python-pbkdf2
 pip install tornado==4.5.3 u-msgpack-python jinja2 chardet requests pbkdf2 pycryptodome
 ```
+### 备份数据库只需要复制qiandao目录下的 database.db 文件
+
 
 可选 redis, Mysql
 
